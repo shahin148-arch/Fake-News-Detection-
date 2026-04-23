@@ -1,5 +1,3 @@
-# Fake-News-Detection-
-Fake News Detection using NLP &amp; ML (TF-IDF + Naive Bayes + SVM)
 # 📰 Fake News Detection using NLP & ML
 
 ## Overview
@@ -37,7 +35,7 @@ jupyter notebook fake_news_detection.ipynb
 - Fake.csv — Fake news dataset  
 - manual_testing.csv — Manual test cases
 
-## Download detaset from Here
+## Download Detasets from Here
 https://drive.google.com/drive/folders/1f3L029w3sC7QYaxg30Hn7x_FSTt0y3-7
 ## And Also Here
 Fake - https://www.kaggle.com/code/therealsampat/fake-news-detection/input
